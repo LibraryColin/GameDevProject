@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706637002
+Ball.gd::GDScript::-1::1706399292::0::1::::<>CharacterBody2D<>::
+ball.tscn::PackedScene::9018770865447407217::1706399351::0::1::::<><>::res://Ball.gd<>uid://daq3yhsirb16x::::res://icon.svg
+icon.svg::CompressedTexture2D::7194035425851640117::1706386620::1706386627::1::::<><>::
+node_2d.tscn::PackedScene::3694169979204207124::1706399351::0::1::::<><>::uid://byr75tlgw187e::::res://player.tscn<>uid://ontv04xn26mk::::res://wall.tscn
+Player.gd::GDScript::-1::1706399344::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::4108044885650142584::1706392419::0::1::::<><>::res://Player.gd<>uid://daq3yhsirb16x::::res://icon.svg
+wall.tscn::PackedScene::1010673205216362342::1706399351::0::1::::<><>::uid://daq3yhsirb16x::::res://icon.svg
